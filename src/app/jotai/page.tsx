@@ -89,7 +89,7 @@ function UsersList() {
 
     const {
         users, loading, error
-    } = useAtomValue(usersAtom);
+    } = useUsers();
 
     if (loading && !users) {
         return <div>Loading...</div>;
