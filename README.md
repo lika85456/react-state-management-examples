@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# React State Management Examples
+
+Checkout the article on [Medium.com](https://medium.com/@lika85456/react-state-management-2023-75c06d42f73b).
+
+[![Run on Repl.it](https://replit.com/badge/github/lika85456/react-state-management-examples)](https://replit.com/new/github/lika85456/react-state-management-examples)
+
 ## Getting Started
 
 First, run the development server:
