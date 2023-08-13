@@ -1,0 +1,9 @@
+{
+    "name": "vitest-config",
+    "version": "0.0.0",
+    "private": true,
+    "files": [
+        "vitest.config.ts",
+        "browser.setup.ts"
+    ]
+}

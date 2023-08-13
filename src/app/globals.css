@@ -25,3 +25,14 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+button {
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  border: 1px solid rgb(var(--foreground-rgb));
+}
+
+input {
+  padding: 0.5rem;
+  border: 1px solid rgb(var(--foreground-rgb));
+}
